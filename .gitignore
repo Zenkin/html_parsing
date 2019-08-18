@@ -1,0 +1,8 @@
+bs4
+bs4/
+*4
+*.html
+*~
+.idea/
+__pycache__/
+*.json
